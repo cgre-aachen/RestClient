@@ -1,3 +1,4 @@
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://assetstore.unity.com/publishers/32542)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/969f6b9d04324af58382f7ee7a8faccd)](https://app.codacy.com/app/jdnichollsc/RestClient?utm_source=github.com&utm_medium=referral&utm_content=proyecto26/RestClient&utm_campaign=Badge_Grade_Dashboard)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/proyecto26/RestClient/graphs/commit-activity)
@@ -305,9 +306,14 @@ router.post('/', function(req, res) {
 ## Supporting 🍻
 I believe in Unicorns 🦄
 Support [me](http://www.paypal.me/jdnichollsc/2), if you do too.
-[Professionally supported Proyecto26.RestClient is coming soon](https://tidelift.com/subscription/pkg/nuget-proyecto26-restclient?utm_source=nuget-proyecto26-restclient&utm_medium=referral&utm_campaign=readme)
 
-Hey mate, any good review from the [Unity Store](https://assetstore.unity.com/packages/tools/network/rest-client-for-unity-102501) is also really appreciated!
+Any good review from the [Unity Store](https://assetstore.unity.com/packages/tools/network/rest-client-for-unity-102501) is also really appreciated!
+
+## Enterprise 💼
+
+Available as part of the Tidelift Subscription.
+
+The maintainers of RestClient for Unity and thousands of other packages are working with Tidelift to deliver commercial support and maintenance for the open source dependencies you use to build your applications. Save time, reduce risk, and improve code health, while paying the maintainers of the exact dependencies you use. [Learn more.](https://tidelift.com/subscription/pkg/nuget-proyecto26-restclient?utm_source=nuget-proyecto26-restclient&utm_medium=referral&utm_campaign=enterprise&utm_term=repo)
 
 ## Security contact information 🚨
 To report a security vulnerability, please use the [Tidelift security contact](https://tidelift.com/security). Tidelift will coordinate the fix and disclosure.
